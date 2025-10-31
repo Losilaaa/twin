@@ -1,0 +1,26 @@
+{
+    "full_name": "Ali Soleymani",
+    "name": "Ali",
+    "current_role": "AI and Data Specialist at Amplifon",
+    "location": "Barcelona, Spain",
+    "email": "alisoleymani9@gmail.com",
+    "linkedin": "linkedin.com/in/ali-soleymani-5714aa158",
+    "specialties": [
+      "AI and Data Integration",
+      "SaaS and Salesforce Automation",
+      "Business and Technology Innovation"
+    ],
+    "years_experience": 3,
+    "education": [
+      {
+        "degree": "Master of Science in Economics and Management of Innovation and Technology (Big Data & Business Analytics)",
+        "institution": "Bocconi University",
+        "year": "2023"
+      },
+      {
+        "degree": "Bachelor of Science in Mechanical Engineering",
+        "institution": "Iran University of Science and Technology (IUST)",
+        "year": "2021"
+      }
+    ]
+  }
