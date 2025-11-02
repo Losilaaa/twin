@@ -29,3 +29,8 @@ out/
 # OS
 .DS_Store
 Thumbs.db
+
+# Environment variables
+**/.env
+**/.env.*
+rm --cached backend/.env*/.env.example
