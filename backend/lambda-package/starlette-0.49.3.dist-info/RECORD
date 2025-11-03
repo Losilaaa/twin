@@ -1,9 +1,9 @@
-starlette-0.49.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
-starlette-0.49.1.dist-info/METADATA,sha256=tWeLdYcvVw6CoP65gVdylkhb-eWAIv_tiKfpQdS0wlM,6367
-starlette-0.49.1.dist-info/RECORD,,
-starlette-0.49.1.dist-info/WHEEL,sha256=qtCwoSJWgHk21S1Kb4ihdzI2rlJ1ZKaIurTj_ngOhyQ,87
-starlette-0.49.1.dist-info/licenses/LICENSE.md,sha256=3LlWd6AiQCQxh-lk-UGEfRmxeCHPmeWvrmhPqzKMGb8,1518
-starlette/__init__.py,sha256=IPFXDGbHYFaDE0KT4FgDVG7v8S7PpT5xqBGj-Ki5dVA,23
+starlette-0.49.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+starlette-0.49.3.dist-info/METADATA,sha256=j29OYcz46VEFRAEMlU37BSDQSv85q4r4_TxD-FACE70,6367
+starlette-0.49.3.dist-info/RECORD,,
+starlette-0.49.3.dist-info/WHEEL,sha256=qtCwoSJWgHk21S1Kb4ihdzI2rlJ1ZKaIurTj_ngOhyQ,87
+starlette-0.49.3.dist-info/licenses/LICENSE.md,sha256=3LlWd6AiQCQxh-lk-UGEfRmxeCHPmeWvrmhPqzKMGb8,1518
+starlette/__init__.py,sha256=up1HUz41xLEcNPEk2bBs3BiGR8YmWLkp9VV2U_R2gdk,23
 starlette/__pycache__/__init__.cpython-312.pyc,,
 starlette/__pycache__/_exception_handler.cpython-312.pyc,,
 starlette/__pycache__/_utils.cpython-312.pyc,,
@@ -39,7 +39,7 @@ starlette/datastructures.py,sha256=zhbGGcmeRVB6Ouvt9HwoB8gSK9k5biH3zUhjb5cV-ow,2
 starlette/endpoints.py,sha256=s9IKEBcHNQgrUtBgIKdcTJGsBaqkSFUq4YpouxPmSRI,5099
 starlette/exceptions.py,sha256=tIphlZa8EsQfKw3-xw5J3ZN1GjaR4UcxfJK69Ad2hG8,1066
 starlette/formparsers.py,sha256=Ndl5dGXZtopzJUjM04M5zYhS8sT33e_5JwK2T7Md4zA,11086
-starlette/middleware/__init__.py,sha256=3WljcfADnSltJrVUuFgpvJiZKcjsjC1Ih9aqYUvSknk,1224
+starlette/middleware/__init__.py,sha256=xRxczwQra6wi7ESQwaDwdpCyntngGJ-7vtKEO-2Wv8k,1506
 starlette/middleware/__pycache__/__init__.cpython-312.pyc,,
 starlette/middleware/__pycache__/authentication.cpython-312.pyc,,
 starlette/middleware/__pycache__/base.cpython-312.pyc,,
@@ -66,7 +66,7 @@ starlette/requests.py,sha256=ZmUgUFwzRaBfvRuFRGIcEHihxN8jj33pxY2J21lMrfM,11700
 starlette/responses.py,sha256=vAZ91pmcoQWQ-OydbCJR0hpJ-iiOyc9Bt1jRUgmo8nk,21451
 starlette/routing.py,sha256=uLO9Q3Pz3AJWys6cS1zr-d9pdgCdeDbNCi5Mr-t8ND4,34201
 starlette/schemas.py,sha256=AxKqw3Q-XL2fU1ryUPn-ye1j1VVeWpgSukJ_8EPJwkg,5142
-starlette/staticfiles.py,sha256=3ej5_KoxEvGejo5GoIkmsk9r43JryCTQEzZgLcQ6ZIc,8478
+starlette/staticfiles.py,sha256=CDUeXRaKsqojKArSTijvsPsRPWZnmZdEy2EqfrGTdw0,8485
 starlette/status.py,sha256=P5SxON3aKW3rwUpJ7cxxD3vvEULMpO-aIzzJRmLwwVs,6359
 starlette/templating.py,sha256=k0R875jbaR9vXlCg-5kGYkYr6UJHxyFeiRgt6m2kZp8,8293
 starlette/testclient.py,sha256=BVT1HspIPA4tgptnarMnlo41LeRJEglCGk9MnPv5bCE,28011
