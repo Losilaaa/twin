@@ -51,3 +51,9 @@ variable "root_domain" {
   type        = string
   default     = ""
 }
+
+variable "route53_zone_id" {
+  description = "Route 53 hosted zone ID for the apex domain"
+  type        = string
+  default     = ""
+}

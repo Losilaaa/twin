@@ -266,9 +266,15 @@ resource "aws_cloudfront_distribution" "main" {
 }
 
 # Optional: Custom domain configuration (only created when use_custom_domain = true)
+#data "aws_route53_zone" "root" {
+ # count        = var.use_custom_domain ? 1 : 0
+ # name         = var.root_domain
+  #private_zone = false
+#}
+
 data "aws_route53_zone" "root" {
   count        = var.use_custom_domain ? 1 : 0
-  name         = var.root_domain
+  zone_id      = var.route53_zone_id
   private_zone = false
 }
 
