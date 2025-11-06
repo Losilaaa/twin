@@ -1,4 +1,7 @@
-# AI Digital Twin – Week 2 Project
+# AI Digital Twin
+
+<img width="1718" height="1034" alt="Screenshot 2025-11-06 at 00 43 44" src="https://github.com/user-attachments/assets/adff57e9-91c3-4540-a181-860d12cc255a" />
+
 
 This repository contains the code for building and deploying an **AI Digital Twin** — a conversational agent that acts as a digital representation of a person. Over the course of Week 2, the project evolves from a basic chat interface into a production‑ready application with memory, personalization, a serverless backend, and DevOps automation.
 
@@ -65,7 +68,6 @@ For serverless deployment, follow these high‑level steps:
 4. Build a static export of the frontend and upload it to your S3 bucket.
 5. Optionally, configure a custom domain and automate the entire process with GitHub Actions (Day 5 instructions).
 
-For complete instructions, see the `week2/dayX.md` files in the `week2` directory.
 
 ## License
 
